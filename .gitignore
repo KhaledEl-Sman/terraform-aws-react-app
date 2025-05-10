@@ -7,3 +7,6 @@
 
 #tfvar files
 *.tfvars
+
+#crash logs
+crash.log
